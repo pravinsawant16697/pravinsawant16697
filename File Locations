@@ -1,0 +1,19 @@
+>src/main/java
+    >com.hibernate.entity
+        >User
+    
+    >com.hibernate.servlet
+        >RegisterServlet
+        >UpdateServlet
+        >UserServlet
+        >DeleteServlet
+        >ListServlet
+------------------------------------------------------------------------
+
+>webapp
+   >index.jsp
+   >Listing.jsp
+   >Update.jsp
+
+
+        
