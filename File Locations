@@ -8,6 +8,8 @@
         >UserServlet
         >DeleteServlet
         >ListServlet
+    
+    >hibernate.cfg.xml    
 ------------------------------------------------------------------------
 
 >webapp
